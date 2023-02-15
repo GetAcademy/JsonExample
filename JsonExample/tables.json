@@ -1,0 +1,18 @@
+﻿[
+  {
+    "name": "Bord A",
+    "capacity": 6
+  },
+  {
+    "name": "Bord B",
+    "capacity": 8
+  },
+  {
+    "name": "Bord C",
+    "capacity": 4
+  },
+  {
+    "name": "Bord D",
+    "capacity": 2
+  }
+]
